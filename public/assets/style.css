@@ -5,4 +5,14 @@ body{
     margin:0 auto;
     width:80%;
     border:solid 1px white;
+    padding:5px;
+}
+.inputItem{
+    height:35px;
+    width:30%;
+
+}
+.addBtn{
+    width:80px;
+    height:35px;
 }
